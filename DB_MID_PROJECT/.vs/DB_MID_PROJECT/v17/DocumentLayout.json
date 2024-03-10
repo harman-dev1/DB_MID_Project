@@ -1,0 +1,635 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\evaluation\\group_evaluation_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\evaluation\\group_evaluation_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\evaluation\\group_evaluation_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\evaluation\\group_evaluation_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\evaluation\\manage_evaluation_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\evaluation\\manage_evaluation_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\group\\group_project_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\group\\group_project_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\group\\group_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\group\\group_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\group\\manage_group_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\group\\manage_group_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\manage advisor\\manage_advisor_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\manage advisor\\manage_advisor_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\main_folder\\features_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\main_folder\\features_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\project\\project_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\project\\project_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\project\\proect_advisor-form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\project\\proect_advisor-form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\manage_students\\add_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\manage_students\\add_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\manage_students\\delete_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\manage_students\\delete_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\manage_students\\edit_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\manage_students\\edit_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\manage_students\\manage_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\manage_students\\manage_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\manage_students\\show_student_person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\manage_students\\show_student_person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|p:\\programming\\data base\\mid_project\\db_mid_project\\db_mid_project\\main_folder\\features_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\main_folder\\features_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\group\\group_project_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\group\\group_project_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\evaluation\\manage_evaluation_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\evaluation\\manage_evaluation_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\group\\group_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\group\\group_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\manage_students\\delete_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\manage_students\\delete_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\manage_students\\edit_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\manage_students\\edit_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\manage_students\\show_student_person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\manage_students\\show_student_person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\manage_students\\add_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\manage_students\\add_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\group\\manage_group_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\group\\manage_group_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\manage advisor\\manage_advisor_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\manage advisor\\manage_advisor_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\project\\project_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\project\\project_manage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\project\\proect_advisor-form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\project\\proect_advisor-form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\group\\group_project_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\group\\group_project_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\project\\project_manage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\project\\project_manage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\manage_students\\add_student_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\manage_students\\add_student_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\main_folder\\features_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\main_folder\\features_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\manage_students\\manage_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\manage_students\\manage_student_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\manage_students\\delete_student_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\manage_students\\delete_student_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\db_mid_project\\manage_students\\delete_student_form.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7D6BC6CA-1167-4544-82A7-AE0DE2D7389C}|DB_MID_PROJECT\\DB_MID_PROJECT.csproj|solutionrelative:db_mid_project\\manage_students\\delete_student_form.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 103,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "show_student_person.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\show_student_person.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MANAGE_Students\\show_student_person.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\show_student_person.cs [Design]",
+              "RelativeToolTip": "DB_MID_PROJECT\\MANAGE_Students\\show_student_person.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:48:23.174Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "group_evaluation_form.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Evaluation\\group_evaluation_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Evaluation\\group_evaluation_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Evaluation\\group_evaluation_form.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\Evaluation\\group_evaluation_form.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAwHgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T23:21:18.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "group_evaluation_form.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Evaluation\\group_evaluation_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Evaluation\\group_evaluation_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Evaluation\\group_evaluation_form.cs [Design]",
+              "RelativeToolTip": "DB_MID_PROJECT\\Evaluation\\group_evaluation_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T23:11:37.615Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "manage_evaluation_form.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Evaluation\\manage_evaluation_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Evaluation\\manage_evaluation_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Evaluation\\manage_evaluation_form.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\Evaluation\\manage_evaluation_form.cs",
+              "ViewState": "AQIAAJgAAACAamZmZqYjwLIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:36:46.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "manage_evaluation_form.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Evaluation\\manage_evaluation_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Evaluation\\manage_evaluation_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Evaluation\\manage_evaluation_form.cs [Design]",
+              "RelativeToolTip": "DB_MID_PROJECT\\Evaluation\\manage_evaluation_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T22:25:58.628Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "group_student_form.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Group\\group_student_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Group\\group_student_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Group\\group_student_form.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\Group\\group_student_form.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAPwOUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T18:36:57.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "group_student_form.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Group\\group_student_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Group\\group_student_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Group\\group_student_form.cs [Design]",
+              "RelativeToolTip": "DB_MID_PROJECT\\Group\\group_student_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T18:36:27.552Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "group_project_form.Designer.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Group\\group_project_form.Designer.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Group\\group_project_form.Designer.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Group\\group_project_form.Designer.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\Group\\group_project_form.Designer.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAADgv/YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:04:04.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "group_project_form.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Group\\group_project_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Group\\group_project_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Group\\group_project_form.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\Group\\group_project_form.cs",
+              "ViewState": "AQIAAHsAAABAAAAAAAAYwIUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:29:06.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "group_project_form.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Group\\group_project_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Group\\group_project_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Group\\group_project_form.cs [Design]",
+              "RelativeToolTip": "DB_MID_PROJECT\\Group\\group_project_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:28:19.613Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "manage_group_form.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Group\\manage_group_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Group\\manage_group_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Group\\manage_group_form.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\Group\\manage_group_form.cs",
+              "ViewState": "AQIAAKoAAACAAQAAAAAawJIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:42:52.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "manage_group_form.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Group\\manage_group_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Group\\manage_group_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Group\\manage_group_form.cs [Design]",
+              "RelativeToolTip": "DB_MID_PROJECT\\Group\\manage_group_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T12:29:38.183Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "proect_advisor-form.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Project\\proect_advisor-form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Project\\proect_advisor-form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Project\\proect_advisor-form.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\Project\\proect_advisor-form.cs",
+              "ViewState": "AQIAAD4BAAAAAAAAAABYvUUBAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T17:56:25.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Project_manage.Designer.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Project\\Project_manage.Designer.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Project\\Project_manage.Designer.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Project\\Project_manage.Designer.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\Project\\Project_manage.Designer.cs",
+              "ViewState": "AQIAACcBAAAAAAAAAADgvzABAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T16:44:50.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "add_student_form.Designer.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\add_student_form.Designer.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MANAGE_Students\\add_student_form.Designer.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\add_student_form.Designer.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\MANAGE_Students\\add_student_form.Designer.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAADgv5UAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:59:32.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "proect_advisor-form.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Project\\proect_advisor-form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Project\\proect_advisor-form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Project\\proect_advisor-form.cs [Design]",
+              "RelativeToolTip": "DB_MID_PROJECT\\Project\\proect_advisor-form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:40:58.127Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Project_manage.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Project\\Project_manage.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Project\\Project_manage.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Project\\Project_manage.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\Project\\Project_manage.cs",
+              "ViewState": "AQIAAPAAAACAMzMzM7MwwPQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:07:15.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.config",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\App.config",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\App.config",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\App.config",
+              "RelativeToolTip": "DB_MID_PROJECT\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-08T11:01:03.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project_manage.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Project\\Project_manage.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Project\\Project_manage.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Project\\Project_manage.cs [Design]",
+              "RelativeToolTip": "DB_MID_PROJECT\\Project\\Project_manage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:00:30.993Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "manage_advisor_form.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Manage Advisor\\manage_advisor_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Manage Advisor\\manage_advisor_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Manage Advisor\\manage_advisor_form.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\Manage Advisor\\manage_advisor_form.cs",
+              "ViewState": "AQIAANcAAADQmZmZmZkqwNQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T17:51:33.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "features_form.Designer.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MAIN_FOLDER\\features_form.Designer.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MAIN_FOLDER\\features_form.Designer.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MAIN_FOLDER\\features_form.Designer.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\MAIN_FOLDER\\features_form.Designer.cs",
+              "ViewState": "AQIAABEAAAAgZmZmZmYuwAsBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T12:07:01.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Program.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Program.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Program.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\Program.cs",
+              "ViewState": "AQIAAAsAAADAZGZmZmYswBMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:42:00.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "features_form.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MAIN_FOLDER\\features_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MAIN_FOLDER\\features_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MAIN_FOLDER\\features_form.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\MAIN_FOLDER\\features_form.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAwHwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T11:04:59.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "features_form.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MAIN_FOLDER\\features_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MAIN_FOLDER\\features_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MAIN_FOLDER\\features_form.cs [Design]",
+              "RelativeToolTip": "DB_MID_PROJECT\\MAIN_FOLDER\\features_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T10:59:02.497Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "manage_advisor_form.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Manage Advisor\\manage_advisor_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Manage Advisor\\manage_advisor_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Manage Advisor\\manage_advisor_form.cs [Design]",
+              "RelativeToolTip": "DB_MID_PROJECT\\Manage Advisor\\manage_advisor_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T14:16:06.23Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "delete_student_form.resx",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.resx",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.resx",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.resx",
+              "RelativeToolTip": "DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-03-04T20:37:47.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "delete_student_form.Designer.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.Designer.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.Designer.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.Designer.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T20:37:44.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "edit_student_form.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\edit_student_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MANAGE_Students\\edit_student_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\edit_student_form.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\MANAGE_Students\\edit_student_form.cs",
+              "ViewState": "AQIAAFwAAAAAipmZmRkRwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T20:29:11.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "edit_student_form.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\edit_student_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MANAGE_Students\\edit_student_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\edit_student_form.cs [Design]",
+              "RelativeToolTip": "DB_MID_PROJECT\\MANAGE_Students\\edit_student_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T19:54:06.832Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "delete_student_form.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAewDEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:20:36.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "delete_student_form.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.cs [Design]",
+              "RelativeToolTip": "DB_MID_PROJECT\\MANAGE_Students\\delete_student_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:12:21.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "manage_student_form.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\manage_student_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MANAGE_Students\\manage_student_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\manage_student_form.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\MANAGE_Students\\manage_student_form.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T18:04:18.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "show_student_person.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\show_student_person.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MANAGE_Students\\show_student_person.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\show_student_person.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\MANAGE_Students\\show_student_person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:56:48.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "manage_student_form.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\manage_student_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MANAGE_Students\\manage_student_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\manage_student_form.cs [Design]",
+              "RelativeToolTip": "DB_MID_PROJECT\\MANAGE_Students\\manage_student_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T17:48:52.371Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Configuration.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\Configuration.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\Configuration.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\Configuration.cs",
+              "ViewState": "AQIAABMAAAAgMzMzMzMywBgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:20:15.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "add_student_form.cs",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\add_student_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MANAGE_Students\\add_student_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\add_student_form.cs",
+              "RelativeToolTip": "DB_MID_PROJECT\\MANAGE_Students\\add_student_form.cs",
+              "ViewState": "AQIAAB0AAABwpJmZmVkvwLEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:01:48.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "add_student_form.cs [Design]",
+              "DocumentMoniker": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\add_student_form.cs",
+              "RelativeDocumentMoniker": "DB_MID_PROJECT\\MANAGE_Students\\add_student_form.cs",
+              "ToolTip": "P:\\Programming\\Data Base\\MID_PROJECT\\DB_MID_PROJECT\\DB_MID_PROJECT\\MANAGE_Students\\add_student_form.cs [Design]",
+              "RelativeToolTip": "DB_MID_PROJECT\\MANAGE_Students\\add_student_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:01:51.661Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
